@@ -1,7 +1,7 @@
 # Java - neo4j examples
 
 
-CRUD operations on neo4j using Spring boot application. Given examples are easy to understand for Spring web developers .
+CRUD operations on neo4j using Spring boot application. Given examples are easy to understand for Spring web developers and followed simple MVC pattern for easy to understand
 
 
 # Description 
