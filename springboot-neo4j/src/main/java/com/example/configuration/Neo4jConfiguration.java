@@ -8,7 +8,7 @@ import org.neo4j.driver.v1.Driver;
 import org.neo4j.driver.v1.GraphDatabase;
 
 /**
- * @author Jitesh
+ * @author JiteshP
  *
  */
 public class Neo4jConfiguration {
